@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AgentLeads_ContactPerson</name>
+   <tag></tag>
+   <elementGuidId>fa3e5ed6-6036-44b5-a13a-c3786e282505</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;frmAgentRateRequest&quot;)/div[@class=&quot;form__section form__section--bg mdl-shadow--2dp&quot;]/div[@class=&quot;form-control-group&quot;]/div[@class=&quot;form-control&quot;]/div[@class=&quot;mdl-textfield mdl-js-textfield mdl-textfield--floating-label js-ej-selectfield&quot;][count(. | //div[@class = 'mdl-textfield mdl-js-textfield mdl-textfield--floating-label js-ej-selectfield' and @data-upgraded = ',MaterialTextfield' and (text() = '
+
+                        Contact Person *
+                        This field cannot be empty
+                    ' or . = '
+
+                        Contact Person *
+                        This field cannot be empty
+                    ')]) = count(//div[@class = 'mdl-textfield mdl-js-textfield mdl-textfield--floating-label js-ej-selectfield' and @data-upgraded = ',MaterialTextfield' and (text() = '
+
+                        Contact Person *
+                        This field cannot be empty
+                    ' or . = '
+
+                        Contact Person *
+                        This field cannot be empty
+                    ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdl-textfield mdl-js-textfield mdl-textfield--floating-label js-ej-selectfield</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-upgraded</name>
+      <type>Main</type>
+      <value>,MaterialTextfield</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+                        Contact Person *
+                        This field cannot be empty
+                    </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmAgentRateRequest&quot;)/div[@class=&quot;form__section form__section--bg mdl-shadow--2dp&quot;]/div[@class=&quot;form-control-group&quot;]/div[@class=&quot;form-control&quot;]/div[@class=&quot;mdl-textfield mdl-js-textfield mdl-textfield--floating-label js-ej-selectfield&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

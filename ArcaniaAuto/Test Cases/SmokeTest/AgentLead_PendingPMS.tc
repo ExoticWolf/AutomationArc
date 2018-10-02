@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tache 6693
+
+Smoke Test : Squash TM Test Case : Create Lead Pending PMS</description>
+   <name>AgentLead_PendingPMS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d9ee785-9ec9-4e6a-8e7e-9338cbce3f89</testCaseGuid>
+</TestCaseEntity>

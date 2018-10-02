@@ -1,0 +1,13 @@
+#Fri Sep 07 14:39:25 MUT 2018
+analytics.integration.enable=false
+analytics.authentication.password="Manish2503"
+analytics.authentication.token="a4mtjSMKnHk7h66R1fCC3XTyz5jQOL+8ctVwc+KdAdUk1WppLrTxGg\=\="
+analytics.server.endpoint="https\://analytics.katalon.com"
+analytics.authentication.email="proopnah@astek.mu"
+analytics.authentication.encryptionEnabled=false
+analytics.team="{\\n  \\"id\\"\: 6469,\\n  \\"role\\"\: \\"OWNER\\",\\n  \\"name\\"\: \\"Team proopnah@astek.mu\\"\\n}"
+analytics.project="{\\n  \\"id\\"\: 6415,\\n  \\"name\\"\: \\"ArcaniaAutomation\\",\\n  \\"teamId\\"\: 6469\\n}"
+analytics.testresult.autosubmit=true
+analytics.testresult.attach.screenshot=true
+analytics.testresult.attach.log=true
+analytics.testresult.attach.capturedvideos=false

@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SmokeTest,,Describe all test for a smoke Test,2018-08-21 09:26:11,2018-08-21 09:26:33,22.301s,FAILED
+,,,,,,
+Test Cases/SmokeTest/ValidLogin,,,2018-08-21 09:26:13,2018-08-21 09:26:32,19.167s,FAILED
+openBrowser,,,2018-08-21 09:26:18,2018-08-21 09:26:30,11.981s,FAILED

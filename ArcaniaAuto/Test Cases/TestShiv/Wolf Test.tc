@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hello Test</description>
+   <name>Wolf Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82560993-9471-4692-9f21-3bb8d3cf039e</testCaseGuid>
+</TestCaseEntity>

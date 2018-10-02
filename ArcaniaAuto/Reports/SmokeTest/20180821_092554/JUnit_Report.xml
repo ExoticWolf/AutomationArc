@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SmokeTest" time="49" tests="1" failures="0" errors="0">
+   <testsuite name="SmokeTest" tests="1" failures="0" errors="0" time="49" timestamp="2018-08-21 09:26:09" hostname="proopnah - mau-lt138.ASTEKMTIUS" id="Test Suites/SmokeTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Katalon Studio\\ArcaniaAutomation\\Reports\\SmokeTest\\20180821_092554"/>
+         <property name="logFiles" value="C:\\Katalon Studio\\ArcaniaAutomation\\Reports\\SmokeTest\\20180821_092554\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="proopnah - mau-lt138.ASTEKMTIUS"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.6.0.1"/>
+         <property name="browser" value="Firefox 61.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="018e1386-9617-44e2-b060-9d271ccc4d2f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SmokeTest/ValidLogin" classname="Test Cases/SmokeTest/ValidLogin" status="PASSED">
+         <system-out><![CDATA[2018-08-21 09:26:10 - [TEST_CASE][PASSED] - Test Cases/SmokeTest/ValidLogin: Test Cases/SmokeTest/ValidLogin
+
+2018-08-21 09:26:14 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://arcania-integ.astek.mu/Login'
+
+2018-08-21 09:26:49 - [MESSAGE][PASSED] - Browser is opened with url: 'https://arcania-integ.astek.mu/Login'
+
+2018-08-21 09:26:49 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://arcania-integ.astek.mu/Login' successfully
+
+2018-08-21 09:26:49 - [MESSAGE][PASSED] - Navigate to 'https://arcania-integ.astek.mu/Login' successfully
+
+2018-08-21 09:26:49 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-08-21 09:26:50 - [MESSAGE][PASSED] - Current window maximized
+
+2018-08-21 09:26:50 - [TEST_STEP][PASSED] - setText: Text 'b1@arc.com' is set on object 'Object Repository/input_Username'
+
+2018-08-21 09:26:50 - [MESSAGE][PASSED] - Text 'b1@arc.com' is set on object 'Object Repository/input_Username'
+
+2018-08-21 09:26:50 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/input_Password'
+
+2018-08-21 09:26:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/input_Password'
+
+2018-08-21 09:26:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Arcania - Log In/SignIn' is clicked on
+
+2018-08-21 09:26:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Arcania - Log In/SignIn' is clicked on
+
+2018-08-21 09:26:54 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Page_Arcania - Dashboard/h1_Dashboard' is present
+
+2018-08-21 09:26:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-08-21 09:26:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Arcania - Dashboard/h1_Dashboard' is present
+
+2018-08-21 09:26:54 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Arcania - Dashboard/i_icon-home' is present
+
+2018-08-21 09:26:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-08-21 09:26:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Arcania - Dashboard/i_icon-home' is present
+
+2018-08-21 09:26:54 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Arcania - Dashboard/i_icon-crm' is present
+
+2018-08-21 09:26:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-08-21 09:26:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Arcania - Dashboard/i_icon-crm' is present
+
+2018-08-21 09:26:54 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Arcania - Dashboard/i_icon-intranet' is present
+
+2018-08-21 09:26:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-08-21 09:26:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Arcania - Dashboard/i_icon-intranet' is present
+
+2018-08-21 09:26:54 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Arcania - Dashboard/i_icon-leads' is present
+
+2018-08-21 09:26:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-08-21 09:26:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Arcania - Dashboard/i_icon-leads' is present
+
+2018-08-21 09:26:54 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Arcania - Dashboard/i_icon-bi' is present
+
+2018-08-21 09:26:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-08-21 09:26:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Arcania - Dashboard/i_icon-bi' is present
+
+2018-08-21 09:26:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Arcania - Log In/Account' is clicked on
+
+2018-08-21 09:26:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Arcania - Log In/Account' is clicked on
+
+2018-08-21 09:26:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Arcania - Log In/Logout' is clicked on
+
+2018-08-21 09:26:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Arcania - Log In/Logout' is clicked on
+
+2018-08-21 09:26:55 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-21 09:26:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-21 09:26:09 - [TEST_SUITE][PASSED] - SmokeTest: Test Cases/SmokeTest/ValidLogin]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

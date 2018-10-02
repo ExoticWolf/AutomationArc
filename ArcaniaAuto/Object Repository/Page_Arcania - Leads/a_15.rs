@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_15</name>
+   <tag></tag>
+   <elementGuidId>aa038448-cd9e-4513-b5ed-197c6d547e13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@class = 'e-link e-numericitem e-spacing e-animate e-currentitem e-active e-hover' and (text() = '15' or . = '15')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-link e-numericitem e-spacing e-animate e-currentitem e-active e-hover</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AgentLeadsGrid&quot;)/div[@class=&quot;e-pager e-js e-pager&quot;]/div[@class=&quot;e-pagercontainer&quot;]/div[@class=&quot;e-numericcontainer e-default&quot;]/a[@class=&quot;e-link e-numericitem e-spacing e-animate e-currentitem e-active e-hover&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
